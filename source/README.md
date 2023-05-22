@@ -1,3 +1,6 @@
+The presentation **SustainabilityHackathonPrototypeRound.pptx** has all the details of the SustainabilityHackathon               
+
+
 The Source Code has 6 components      
 
 1. **Sustainability Hub Portal** - has the code for the static website which binds the ,`Sustainability Hub`,`Paddy Disease detection` , `Cassava Disease detection` , `Bees  Disease detection`, and the `Meat Freshness Classification`         
