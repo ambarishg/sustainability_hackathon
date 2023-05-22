@@ -1,0 +1,810 @@
+MARCH 2019
+Attr ibution: Ismail Haque, Simi Mehta and Arjun Kumar , "Towar ds Sustainable and Inclusive Cities: The Case of 
+Kolkata", ORF Special Repor t No. 83, Mar ch 2019, Observer Research Found ation. 
+Obser ver Research Foundation (ORF) is a public policy think tank that aims to influence formulation of policies for 
+building a strong and prosperous India. ORF pursues these goals by providing informed and productive inputs,               
+in-depth research, and stimulating discussions. 
+© 2019 Observer Research Foundation. All rights reserved. No part of this publication may be reproduced, copied, archived, retained or transmitted through print, speech or electronic media without prior written approval from ORF.ISBN  978-93-88262-98-9Towards Sustainable 
+and I nclusiv e Cities: 
+The C ase of K olkata
+Ismail Haque, Simi Mehta, Arjun Kumar
+Photo: Ar indam Saha/Un spla shABST RACT
+India’s metr opolit an cities are the testin g ground for polic y innovations on 
+areas as wi de-reaching as ec onomic and infrastructu re develop men t, lan d-use 
+plann ing, provisi on of civic amen ities, and housi ng. Indeed, cities are 
+presumed to be dynami c and vibrant, attracting greater investme nts and 
+contributin g to econom ic growth. However, recent spatial and dem ographi c 
+growth beha viour s of India’s metr o cities are posing challeng es to nurturing 
+their sustain ability and inclusivity . This speci al repor t studies the challeng es 
+facing Kolka ta—I ndia’ s oldest metr opolit an city a nd a dmin istrative capit al of 
+West Bengal— vis-à-vis the count ry’s Smar t Cities Missi on. The repor t 
+discusses issue s pertaining to Kolka ta’s hapha zard urba n expans ion and the 
+various measur es taken by the Governmen t of West Bengal and the city 
+auth ority to main tain its liveabil ity and sustain ability. The repor t concl udes 
+with recommen dations for efficien t and effectiv e polic y interventio ns. 
+(This repor t is part of ORF’s series, ‘Urbanisation and its Discont ents ’. Find other resear ch 
+in the series here: https://www .orfonline.org/ series/u rbanisatio n-and-its-disco ntents/)
+Cities are generally regarded as epicentres of higher opportunities and 
+1
+productivity, serving as vehicle for accelerating economic growth and regional 
+development. India’s metro cities are the testing ground for vital policy decisions 
+regarding economic and infrastructure development, land-use planning, civic 
+amenities and ho using. They are the pri me investment basin for both na tional 
+and international players for the country’s smart economic growth. 
+However, India’s urban transforma tion—m any characteristics of which, 
+analysts attribu te to liberalisation, priv atisation and globalisation—as well as the 
+country’s impressive growth since the economic reform s of the 1990s, has given 
+rise to myriad challenges of uniform distribu tion of such growth across India’s 
+2
+diverse population. This calls into question the sustainability and inclusiveness 
+of such cities. Metro cities are multi-municipal meg a urban entities and have 
+experienced huge vertical and horizontal expansion in the last couple of 
+decades. Such colossal urban growth, coupled with the influx of migrant 
+population from surrounding smaller towns/cities and rural hinterlands, exert 
+tremendous pressure on existing infrastruct ure bases and public resources, and 
+create a negative impact on the overall quality of life across cityscapes. 
+Furthermor e, the s ocio- spatial and f inan cial gap b etween the r ich and the 
+poor have widen ed over time . In cities, the poor have limit ed access to essen tial 
+publ ic and priva te goods and services (e.g. qual ity housi ng, educa tion , job, civic INT RODUCT ION
+2 ORF SPECIAL REPORT # 83  •MARCH 2019  Towar ds Sustainable and Inclusive C ities: T he Case of K olkataamen ities and services), whic h produc es an extremel y unequ al and segregat ed 
+3
+distributi on of oppor tuniti es. Kolka ta is not an exceptio n to these rules of 
+exclusi onar y urba n growth and endemic spatial poverty, whic h creates and 
+main tains an intrica te poverty trap that puts tremen dous stress on heal th, 
+earning pote ntials, politic al particip ation and the overall well-bei ng of the 
+4
+popula tion . Efficien t polic y prescriptions are, ther efore, necessar y to curtail 
+these adversities in Kolka ta to ensur e equitab le, sustain able and inclusiv e 
+growth, in line with the Susta inabl e Developmen t Goal 11.  
+Kolka ta, the admini strative capit al of the Easte rn Indian state of West Bengal, 
+th 5
+is the 14 larges t city in the world and was India’s first metr opolit an entity . The 
+city stretches north–south along the eastern bank of Rive r Hooghly (Ganga) in 
+the famous deltaic Bengal basin and about 75 km west from the Banglades h 
+internation al border. It has the coordina tes of 22.5 726° N and 88.3 639° E. Soils 
+are main ly alluvial. Most of the city area was originally a wetland and has been 
+6
+reclaimed over time to accomm odate a burgeon ing popula tion . The rest of the 
+undeveloped areas, popularly recog nised as the East Kolka ta Wetlands, have 
+been dema rcated as “wetland of internation al significan ce” by the Ramsar 
+7
+Conventio n (197 5). 
+Kolka ta is popularly known as the ‘cultu ral capit al of India’ and the ‘City of 
+8
+Joy’. It has grown from a colonial port city to a giant megalo polis with a 
+9
+popula tion of ov er 14 milli on. The city is well connect ed to diff erent par ts of 
+India as well as South-East Asian count ries via the National Highw ay 34, 
+Kolka ta–D elhi and Kolka ta–Chenn ai Golden Quadrilateral Roads, and Netaji 
+Subh as Chand ra Bose Internation al Airport. Figur e 1 shows the admini strative 
+jurisdiction s of Kolka ta Urban A gglomeration (KU A) and K olka ta city district 
+(Kolkata Muni cipal Corporation / KMC; wards: 141; popula tion : 4.5 million), 
+covering an area of 1,88 6.67 sq. km and 205 sq.km , respective ly. 
+Kolka ta’s history dates back to 1690 , when the East India Com pany arrived 
+in Bengal for trade. Job Charnock , a British er, is consi dered to have found ed the 
+10
+city in 1690 , with three villages : Suta nati, Kolka ta and Gobi ndapur . 
+Estab lished as an East India Com pany trading centr e, Kolka ta (the n Calcutt a) 
+served as India’s capit al city under the British Raj, unti l 1911 . 
+Being the only mega agglomer ation hub of economic, political and business 
+activit ies as well as the educational and cultur al pivot of Eastern India , Kolkata 
+has held enor mous geopoli tical impor tanc e since the colonial era. The city is KOLKATA CI TY: AN OVERVIEW
+3 ORF SPECIAL REPORT # 83  •MARCH 2019  Towar ds Sustainable and Inclusive C ities: T he Case of K olkata4consider ed the most popular livelihoo d destination for thous ands of     
+migrant labourers from the neig hbour ing states of Uttar Pradesh, Bihar and 
+Odisha  and from the hint erland of West Bengal. Haphaz ard, unplanned and 
+colossal urban growth have cause d strain on Kolkata’ s urban structur e and 
+socioeconomic resources, transforming the city into a “premature 
+11
+metr opolis ,” primar ily due to the huge influx of cross-bor der migration, first 
+during India’ s independence in 1947 and later in the after math of the 1971 
+Bangladesh Libera tion War. 
+The city’s role as the nucleus of labour employment and economic 
+opportunities attracted both shor t- and long-distanc e internal migration for 
+the next couple of decades. Some efforts were made to diver t the processes of 
+urbanisation and industr ialis ation to other areas of the state, e.g. by 
+developing some second ary cities such as Asansol, Durgap ur and Silig uri. 
+12
+Howev er, for the most part, this onslaug ht of migration remained unchecked,  
+and Kolkata experienc ed escal ating horizontal and vertical urban expansions. 
+The city has witnesse d an unplanned higher built -up growth around the 
+peripher ies, resulting in encr oachment of agricultur al land and persistent 
+urban primac y (see Figure 2). Current land use in Kolkata is char acterised by an 
+extremely dense built -up core along with large- scale linear residential 
+developm ent in its adjoining peripher al areas. To sustain the growing 
+popul ation and its economic and comm ercial need s, the city has been subject to 
+large- scale developm ent of infrastructur e at an acceler ated rate, in sever al 
+directions.
+ORF SPECIAL REPORT # 83  •MARCH 2019  Figu re 1: Ad mini stra tive M ap
+Sour ce: Prepar ed by autho rs.a.  Kolk ata Urb an Aggl omera tion b. Kolk ata Mun icipa l Corpo ratio n
+Towar ds Sustainable and Inclusive C ities: T he Case of K olkata5Figu re 2: Tr ajectories of La nd Use /Lan d Cove r Chan ge acr oss th e KUA                      
+sinc e the 19 90s
+Sour ce: Prepar ed by Dr . Mehebub Sahana, lectur er at IGCM C, WWF -IND IA, New Delhi, using L andsat 4-5™ and 
+Landsat 8 s atellite ima ges. 
+Kolka ta’s dem ographi c growth trend has been irregular over the deca des, 
+primar ily due to its consp icuous socioecon omic and politic al trajectories. For 
+th
+example, during the first half of the 20 centu ry, Kolka ta recorded a higher 
+popula tion growth rate; how ever, beginning in the 1960 s, the growth rate 
+dimi nish ed. The popula tion in the KUA, especially in its peripheral area, 
+currently grows at a much higher rate than in the KMC , whic h even recorded a 
+nega tive popula tion growth rate of –0.1 8 percent (see Figur e 3). There may be 
+seve ral reasons for this, such as the city core being saturated in terms of 
+population absor ption and available built -up areas, its plight further 
+highlighted by the stagnant econom ic heal th of the city; acute shortages of 
+requir ed infrastructu re and services; and increased cost of living , including 
+stringent land- use regulations, whic h may have weakened the capa city of the 
+KMC to sustain a growing popula tion . Moreover, impr oved transpor t systems 
+have facilita ted daily comm ute, allowing individua ls to mov e to residential 
+location s around city peripheries wher e land and low-cost housi ng is easil y 
+13
+available . This, too, fuels the rapid growth of peripheries.     
+This unplanned peripher al growth has exerted a huge strain on the existing 
+land, econom y and basic infrastructur e of the city. Consequently , the rise in 
+urban spatial pover ty has becom e mor e evident in terms of the quality of 
+housing stock available, water, sanitation, and sewerage. This is exacerbat ed by 
+the failur e of both local and state governments to mana ge these issues through 
+effective urban policies. 
+ORF SPECIAL REPORT # 83  •MARCH 2019  
+Towar ds Sustainable and Inclusive C ities: T he Case of K olkataThe Indian government’s approach to capital disbursement for 
+develop men t has been highly urba n, with a “big city bias. ” As a result , people 
+from rural and smal l towns/ cities conti nue to flock to Kolka ta, find their 
+livelihoods in the gradually increasin g informal secto rs. They reside in 
+bastis/squa tter settleme nts. About 31.3 5 percent of city residents (1.41 
+14
+million) are currently living in 5,60 0 bastis, with derelict housi ng; critical ly 
+disp ropor tionate access to drinking water, sani tation and solid-waste 
+managem ent; overcrowding; segregati on from the rest of the city; lack of 
+proper pavemen t and walkways; higher heal th risk; and increased risk of 
+delinquency. Table 1 repor ts housi ng char acteristics, the degree of access to 
+certain essen tial ser vices an d assets posses sions at the househ old (HHs ) lev el 
+in KMC as well as in urba n West Bengal in 2011 . The housi ng owne rship rate is 
+56 percent for KMC , whil e the correspond ing figure for urba n West Bengal is 
+much higher at 76 percent. Fu rther , the housi ng mark et in Kolka ta is plag ued 
+with supply -side const raints, especially for middle- and low-income HHs 
+(owni ng as well as renting), desp ite effectiv e dema nd. There is also a desper ate 
+need to ensur e greater tenur e secur ity, whic h is not addressed adequa tely in 
+15
+housi ng reform measur es. 
+6 ORF SPECIAL REPORT # 83  •MARCH 2019  Figu re 3: De mogr aphi c Grow th Dyn amic s of Kol kata s ince 1 901
+1.44
+ 
+0.64
+ 1.25
+ 5.27 
+2.64 2.49 
+2.15
+ 2.15
+ 1.85
+ 1.76
+ 
+0.591.01
+ 0.35
+ 1.07
+ 6.08 
+2.29 
+1.27
+ 1.17
+ 1.05
+ 0.64
+ 0.40
+ -0.182.20
+ 
+1.10
+ 1.52
+ 3.96 
+3.25 4.21 
+3.23 3.14  
+2.73  2.56 
+0.98
+-1.000.001.002.003.004.005.006.007.00
+1901-1 11911-211921-31 1931-41 1941-51 1951-61 1961-71 1971-81 1981-91 1991-01 2001-1 1Annual Exponential Growth Rate (%)
+Census YearKUA
+KUA  Core (KMC)
+KUA  Periphery
+Sour ce: Comput ed by autho rs using Census data fr om v arious y ears.Towar ds Sustainable and Inclusive C ities: T he Case of K olkataWhile the KMC performs bette r in terms of provid ing electricity and access 
+to in-h ouse latrines, ther e is a huge spatial inequ ality in the provisi on of these 
+7 ORF SPECIAL REPORT # 83  •MARCH 2019  Table 1: Housing Characteristics, Access to Essential Services and Assets
+ASPECTS KMC (% HHS) URBAN WEST 
+BENGAL 
+Housing Characteristics              
+Permanent house 93.1 81.8
+Good condition r esidential hous es 65.3 56.1
+Concr etised roof 57.8 48.4
+Burnt br ick wall 80.9 71.7
+Concr ete wall 10.1 7.4
+Cement ed floor 74.5 67.5
+Mosaic f loors / f loor tiles 16.3 7
+No exclusive r oom 4.3 3
+Have only one r oom 42.5 41.7
+Have at least two r oom 28.3 31.7
+Ownership housing 56 75.6
+Rented housing 39.9 20.4
+Access to Essential Amenities and Services 
+Treated tap wat er 84.9 50
+In-house dr inking water 72.4 56.2
+Electr ified Hhs 96.2 85.1
+In-house latr ine 94.9 85
+Flush latr ine with pipe d sewer system 43.4 13.6
+In-house bathr oom 81.8 60
+Closed drainage 81.3 24.4
+LPG/PNG 64.7 48.2
+Separa te kitchen 72.2 65
+Access to Finance and Assets Possession 
+Personal bank ac count 83.8 68.2
+Television 84.6 68.1
+Computer/lapt op with inter net 14.2 6
+Mobile pho ne 65.5 61.3
+Two wheelers 12.2 14.5
+Car 8.9 4.4
+Sourc e: Author s' co mputation bas ed on 2011 Censu s data.Towar ds Sustainable and Inclusive C ities: T he Case of K olkataessen tial services across the neighbourh oods of the KMC . Rece nt studies 
+suggest that some neighbourh oods with a dispr opor tion ate concentr ation of 
+poor househ olds receive a mark edly lower level of basic amen ities and services 
+16
+as comp ared to the city average.  Quality of services is inadequa te, highly 
+hapha zard and lack proper mon itoring . It is thus necessar y to empow er local 
+bodies by strengthen ing their instit utional capa cities and infrastructu re bases 
+to meet unmet service dema nds and ensur e equitab le distributi on of qual ity 
+amen ities and civic services.
+So far, the government has taken some reform measures to restore the 
+economic glory of Kolkata. These include the development of New Township (e.g. 
+Rajarhat-New Town, West International City and Eastern Metropolitan Bypass); 
+and housing/real estate-sector reforms through public–private partnerships 
+17
+(PPP) models, financial deregulation and privatisation of public rental housing. 
+Consequently, since 2000, there has been an economic resurgence in the city, e.g. 
+thriving IT industries and business parks in Bidhannagar and Rajarhat-New 
+Town in Greater Kolkata. The city’s IT sector has grown at a rate of 70 percent per 
+18
+annum, twice that of the country average. There has also been a surge in 
+investment in Kolkata’s booming real-estate sectors. Various reputed MNCs and 
+TNCs as well as health, educational and research institutions have established 
+their headquarters/ regional offices in the city e.g. Birla Corporation, Bata India, 
+ITC Limited, Unitech, Ericson, TCS, DLF, TATA medical college, Coal India, 
+Damodar Valley Corporation, Aliah University, St. Xavier’s University, Amity 
+Univer sity, ORF, and Techno  India  Group of univer sity/colleges.  The 
+commencement of the Nathu La in Sikkim as an important trade link has put 
+Kolkata in an advantageous location. Despite these developments, however, 
+Kolkata persistently struggl es with endemic spatial poverty, traffic congestion 
+and pollution.
+By a royal char ter, Kolka ta became a corporation body on 4 Sept ember 1726 , 
+comp rising a mayor and nine aldermen. Sinc e then , seve ral laws have been 
+passed and amen ded to impr ove muni cipal governanc e. Sir Surendranath 
+Banerjee— the first mini ster of local self-governmen t in West Bengal and an 
+architect of Calcut ta Muni cipal Act, 1923 —first introduc ed the provisi on for 
+electio n of a mayor in the muni cipal governmen t of Kolka ta. A significan t 
+reform has been the enfranchisement of women. Some proximate 
+muni cipalities, name ly Coss ipore, Mani ktala , Chitpor e and Garden Reac h have 
+been merg ed with Kolka ta. Later, how ever, Garden Reac h was separ ated. The 
+first elect ed mayor of the KMC was Chitta ranjan Das, and Subh as Chand ra URBA N GOVERNA NCE A ND PL ANNIN G: T HE RO AD TO A 
+SUSTAINABLE A ND INC LUSIV E CI TY
+8 ORF SPECIAL REPORT # 83  •MARCH 2019  Towar ds Sustainable and Inclusive C ities: T he Case of K olkata9 ORF SPECIAL REPORT # 83  •MARCH 2019  Bose was his CEO . On May 1952 , with the enactme nt of the Calcut ta Muni cipal 
+Act, 1951 , the KMC was envisio ned as a polic ymaking , directiv e and rule-
+making civic instit ution; the executiv e parts were largely left in the hand s of the 
+commi ssioner. The Chairman of the Calcut ta Impr ovemen t Trust was mad e the 
+19
+ex-officio Coun cillor. 
+However, desp ite seve ral amen dmen ts over the next two deca des, the 1951 
+Calcut ta Muni cipal Act failed to provid e appr opri ate guidelines for the bette r 
+governanc e of a problem-ridden m etropoli s. The Gov ernmen t of W est Bengal 
+superseded the corporation in 1972 . The K olka ta Metr opolit an Developmen t 
+Autho rity (KMD A)—formed in 1970 under a Presidential Ordina nce and later 
+sancti oned under the KMD A Act, 1972 —func tion ed essen tially as a statuar y 
+develop men t auth ority under the admini strative control of the Minis try of 
+Urban Development, Government of West Bengal, with the goal of 
+admini stering major develop men tal activities (plan ning and infrastructu re) in 
+the Kolka ta Metr opolit an Area (KM A). The KMD A derives its powe r and 
+func tion s from the West Bengal Town and Coun try Planni ng Act, 1979 . 
+The KMA and the KUA, the third larges t urba n agglomeration of India, 
+togethe r consi st of four muni cipal corporations, i.e. Kolka ta, Howrah, 
+Chandannagar and Bidhannagar; 36 muni cipalities; and 24 Panchayat 
+20
+Samities ; it will have 21.1 million popula tion by 2025 . During 1970 –81, the 
+KMD A worked as a comm on develop men t agenc y in the KMA, since most its 
+const ituent Urba n Local Bodies (ULB s) were under suspensio n, with no elect ed 
+represent ative in place. The KMD A has since func tion ed in collabor ation with 
+the elected ULB s, work ing towar ds efficient gover nance and holistic 
+th
+develop men t. Moreover, with the enforcemen t of the 74 Constituti onal 
+Amen dmen t Act, 1992 and the West Bengal Metr opolit an Planni ng Com mitt ee 
+(WBMPC) Act, 1994 , the process of decentr alised plann ing and develop men t 
+gained mom entu m in the K MA. In the 2000s, following the provisi ons o f the 
+WBMPC Act, the Kolka ta Metr opolit an Planni ng Com mitt ee (KMP C) was 
+formed in the KMA. The KMP C has 60 membe rs, amo ngst whom 40 are the 
+elect ed represent atives of const ituent ULBs. The WBMPC mandat es the KMP C 
+to prepar e the draft d evelop men t plan f or the KMA, with regar ds to the plans 
+designed by the individua l ULBs. Und er it, the KMP C must also oversee the 
+develop men tal activities laun ched by various state and centr al governmen t 
+agenci es within the admini strative jurisdiction of the KMA, to ensur e that such 
+activities are in accordance with the develop men t plans. With the passage of 
+time, the KMD A has beco me the techni cal secretariat of the KMP C. 
+Sinc e its formation , the KMD A has received both plan and non-plan 
+budgeta ry alloca tion s from centr al and state governmen ts and other s external Towar ds Sustainable and Inclusive C ities: T he Case of K olkata10 ORF SPECIAL REPORT # 83  •MARCH 2019  agenci es (e.g. the World Bank) to execut e various urba n infrastructu re 
+develop men t projects such as the const ruction of flyovers, roads and bridges 
+underpasse s; water supply ; and sanita tion . For instance, during 1974 –92, a 
+major portion of the KMD A’s capit al works programme , under the three phases 
+of Calcut ta Urba n Developmen t Programme (CUD P), came from the World 
+Bank (WB) and was alloca ted by the centr al governmen t. In 1992 , how ever, the 
+WB- sponsor ed CUD P was disconti nued . Beginning 1996 , the KMD A has 
+received centr al governmen t assistan ce under the centr ally sponsor ed Calcut ta 
+Mega city Programme (CMP ) for capit al works projects, although the actual 
+suppor t received has been much less than the estim ated amou nt. Additiona lly, 
+the KMD A received fund s under the state plan and other programme s— 
+assisted by both the centr al and state governmen ts—for capit al works. In 
+recent years, the KMD A has received an annu al average of INR 250 crore for 
+capit al works, from the various external sour ces. It is expected to mak e a 
+quan tum jump in the comin g years, as fund s will start flowin g under various 
+centr ally sponsor ed urba n develop men t sche mes, such as AMRU T and PMA Y-
+HFA 2022 , and other PPP projects.
+The KMD A’s functions broadly cover three domains: plan ning for 
+development, project implementation and regulatory functions. In addition to 
+this, the KMDA acts as a nodal agency, providing consultancy services and 
+implementing projects on behalf of various government departments and 
+institutions. Thus, the KMDA has carried out several projects in diverse sectors 
+of civic infrastructure, such as w ater supply, sewerage an d drainage, traffic and 
+transportation, township and area development, housing and slum 
+21
+improvement, commercial complexes, and parks and playground. According to 
+the guidelines of the West Bengal Town and Country (Planning and 
+Development) Act, 1979, the KMDA must prepare existing Land Use Maps and 
+Registers (LUMRs) for various ULBs within the KMA to help them prepare Land 
+Use and Development Control Plans (LUDCPs) for those sub-areas (see Figure 4). 
+The KMD A must prepar e LUMR s and LUDC Ps in the mann er outlin ed in 
+the Act. Sinc e the official appr oval of LUDC Ps often takes a long time, as an 
+interim measur e, Developmen t Control Regulations (DCR s) are usually drafted 
+and enforced to control unregulated and hapha zard land use and develop men t. 
+The responsi bility of enforcing LUDC Ps and DCRs are delegat ed to the 
+individua l ULBs, whil e the KMD A retains enforcemen t powe r in particular 
+areas and zone s. The KMD A also execut es various plann ing exercises, ranging 
+from perspectiv e plans to the formulatio n of investme nt programme s; it must 
+conti nual ly upgrade perspectiv e plans and secto ral develop men t plans to keep 
+up with chan ging socioecon omic, physical and other contexts.Towar ds Sustainable and Inclusive C ities: T he Case of K olkata11 ORF SPECIAL REPORT # 83  •MARCH 2019  In 201 5, the uni on go vernme nt laun ched its new urban agen da, aiming to 
+develop 100 smart cities across the country. According to Sma rt City Mission’s 
+(SCM ) guid elines, these cities will have adequate civic amenities and services; 
+affordable housing; smart transpor t solutions; effici ent governan ce and 
+participation of cit izen s; safe, secu re an d sust ainable cit y en vironment for al l, 
+with particular emphasis on the elderly, children and women; and accessible 
+22
+healthcare and education. While the SCM’ s agen da and methods of 
+implementation have triggered a debate in the academic and political spheres, it 
+is crucial to exam ine critica lly the exte nt to which smart cities can help achieve a 
+sust ainable and inclusive city (SDGs Goal 11, put forth by the UNDP).  
+Inclusiv e Gove rnan ce
+Inclusiv e governanc e is k ey to impr oving service del ivery to the residents a nd 
+the producti vity of the city, whic h can be achiev ed by ensuring the provisi on of 
+basic infrastructu re and services to all. Additiona lly, various stak eholders 
+should be engage d in decision-ma king  processes , through multitiered 
+governanc e systems. According to the World Bank, the term “inclusi on” refers 
+to the process of enha ncin g the ability, oppor tunity and dignity of people, 
+23
+based on their ability to particip ate in society .
+This definition of inclusion, however, has been criticised on the ground that it 
+excludes systemically marginalised sections of the population. A holistic version 
+of “inclusion” requires the dismissal of discriminatory exclusions; generation of Figu re 4: La nd Use a nd Dev elop ment C ontr ol Pla n, KMC
+Sour ce: Kolkata Metr opolit an Dev elopm ent A uthorit y, acc essed 27 J anuar y 2019, 
+http:/ /kmdaonline .org/l udcp/h ome/l udcp_mu nicipality_sear ch.Towar ds Sustainable and Inclusive C ities: T he Case of K olkataequitable markets, services and spaces; and the protection of human rights of the 
+24
+deprived groups. Therefore, adequate, affordable and equitable provision of 
+housing, essential amenities and public services for all is critical in making cities 
+inclusive. According to recent estimates, 18.78 million HHs suffer from acute 
+housing shortages in urban India, 95 percent of whom are from the economically 
+25
+weaker section (EWS) and the low-income populace (LIP). This holds true in 
+Kolkata as well, as this city suffers from endemic spatial and economic inequality 
+in terms of housing, civic services and income inequality. Slum population in 
+Kolkata is around 31 percent, while their presence is concentrated in central and 
+north-eastern parts of the city (see Figure 5a). Figures 5b, c and d show the sheer 
+magnitude of HHs living in derelict housing conditions with meagre access to 
+essential urban amenities and services. These accommodations are dangerously 
+overcrowded, residentially segregated on caste/religious lines and marked by a 
+socio-culturally unacceptable environment. 
+Figu re 5: Ge ogra phy of S ocio -spa tial I nequ ality in Kol kata
+12 ORF SPECIAL REPORT # 83  •MARCH 2019  
+a: Conc entra tion of s lum hou sing 26
+b: Dist ribut ion of qu ality h ousin g
+c: Conc entra tion of p overt y d: Loca l segre gatio n level b y caste
+Sour ce: Comput ed by autho rs using 2011 Census data.Towar ds Sustainable and Inclusive C ities: T he Case of K olkataAnothe r aspect of inequ ity is seen in neighbourh ood income dispa rity, 
+whic h is evident in the spa tial con centr ation of p overty (% BPL HHs ) and the 
+degree of spatial poverty (housin g and urba n services). In line with nation al 
+trends, Kolka ta exhi bits an escala ting income inequ ality between the rich and 
+the urba n poor , as the mon thly income of 80 percent of its popula tion is below 
+27
+INR 5,00 0, making them EWS and LIP. Economic poverty in Kolka ta is main ly 
+concentr ated in poor neighbourh oods , wher e most residents are empl oyed in 
+the unorgan ised informal secto r, whic h is char acterised by low wages, 
+explo itation and job insecurit y. Such spatial and econom ic poverty not only 
+affect people ’s health, educati on and emplo yment outcomes but also 
+determine the degree to whic h they can access the city’s econom ic and socio-
+physical resour ces and oppor tuniti es. 
+The city governm ent has taken ambitious welfare measures to address the 
+growing unmet need for adequate housing, basic amenities and jobs, through 
+various centrally sponsored flagship programmes such as JnNURM, AMRUT, 
+SCM, PMAY-HFA 2022, and the National Urban Livelihoods Mission. However, 
+financing, stakeholder engagement, production and delivery mechanisms have 
+proven to be ‘poor blind’, thus systemically bypassing those who are already 
+disadvantaged and fuelling the spatial reproduction of urban poverty. For 
+instance, in the name of redevelopment and slum rehabilitation, an estimated 
+200,000 slum dw ellers were evicted d uring 20 04–06, in m ajor cities, including 
+28
+Delhi, Mumbai, Kolkata and Ahmedabad. Less than half of these HHs were 
+rehabilitated: while some built slums again, others were left homeless. Even 
+amongst the rehabilitated HHs, many were disconnected from their basic source 
+29
+of livelihoods as their new housing locations were far away from the city core. 
+As with other metro cities, Kolka ta has a problematic housing tenure 
+system, characterised by various t ypes of e xclusionary practices. F or instance, 
+its rental housing market is predominantly informal in nature, and prospec tive 
+30
+tenants often face unfair treatment on religious lines. Housing discrimi nation 
+against Musl im te nants is ofte n so severe that despite their ability to afford a 
+good house in a preferred location, they are forced to reside in isolated 
+neighbou rhoods, perpetua ting involuntary residential segr egation based on 
+religion. This phenomenon is gradually beginning to affect the so-called 
+cosmopolitan and progressive ‘Beng ali bhodrolok (Bengali gent lefolk)’ culture as 
+well. 
+Fina lly, due to exclusi onar y and faulty spatial plann ing and develop men t of 
+the city, publ ic spaces and major affordable transpor t links (metr o rails), the 
+cultu ral and aestheti cs infrastructu re of the city (e.g. parks, libraries, 
+13 ORF SPECIAL REPORT # 83  •MARCH 2019  Towar ds Sustainable and Inclusive C ities: T he Case of K olkatacomm unity halls) are not easil y accessible to the disadvantaged groups. 
+Moreover, in the name of redev elop men t, the ‘builder raj’ in real-estate secto rs 
+and the politician –land mafia nexus have transf ormed the city’s residential 
+landscapes tremendously. Consequently, the sociocultural fabric of 
+neighbourh oods is threatened due to rapid gentrifica tion .   
+Sust aina bility
+A vital component of a smar t city is sustaina bility , which can be threatened     
+by excessiv e exploitation of resour ces. While man y have bl amed pover ty, it is 
+the elite and the middle- class that are primar ily responsible for this 
+environmental degradation because of the higher degree of their 
+31
+consumption.  
+Air pollu tion is one of the most critical forms of environm enta l 
+32
+degradati on, and out of the 100 most -poll uted globa l cities, 37 are from India. 
+Recent trends record that Kolkata’s air quality has been severely 
+33
+comp romised.  Fifty years ago, most Indian cities were self-sufficien t in terms 
+34
+of their daily water requir emen t. Today, due to excessive extraction of 
+ground water, high-r ise const ruction and unregulated built -up expans ion, 
+subsur face water levels have been depl eted, causi ng structu ral scarcity of water 
+resour ces. 
+Kolka ta’s natural ecosystem has also been damaged by unplanned spatial 
+urban growth along its eastern periph ery. To mak e this newl y developed city a 
+green or smart city, authoritie s planted 10,000 trees. Tolly Canal (of the then 
+Calcutta) has been severely degr aded and is now called the Tolly Nallah; this is 
+largely due to the failure to preserve the earlier system of the city. Therefore, the 
+focus should be on the ‘ecology of the city’, not the ‘ecology in cities’. Solid-
+waste manage ment and wastewater manage ment, too, remain challenges for 
+the KMC. 
+Kolka ta’s hybrid urba n context and its associat ed problems pose huge 
+challeng es for its socio-en vironm enta l sustain ability. 
+Sust aina ble Urba n Econ omy
+The city auth orities have been focused on enha ncin g the econom ic heal th of 
+Kolka ta. Given the city’s strategic location , the econom y of this city has been 
+dominat ed by manufactur ing and services. Much of the urban poor 
+popula tion —comp rising street vendors and hawkers—is engaged in informal 
+secto rs. 
+14 ORF SPECIAL REPORT # 83  •MARCH 2019  Towar ds Sustainable and Inclusive C ities: T he Case of K olkataIn recent years, tourism, retail, IT industries, share-riding apps 
+(OLA/Uber/Bike Taxi), nursing , heal th, educa tion and dom estic services, trade 
+and comm erce, real estate, and transpor t comm unic ations have emer ged as 
+employment-generating sectors in Kolkata. Both local and migrant 
+popula tion s are empl oyed in these secto rs, wher e const ruction is particular ly 
+dom inated by migr ant labour ers from the surround ing hint erlan d. Work 
+particip ation rate increased from 37.6 percent to 39.9 percent, during 2001 –11 
+and holds the sixth positio n in the state. 
+However, according to Census data, Kolka ta has recorded a declin e in main 
+workers from 94.5 percent in 2001 to 87.8 percent in 2011 . Only four percent 
+of the workers are engaged in HHs industr y; other workers (mos tly service 
+secto r) mak e up the greater propor tion of the main workforce, i.e. 94.6 percent 
+in 2011 . Sinc e the econom ic liber alisa tion of the 1990 s and the adoption of 
+Structu ral Adjustm ent Programme s (SAP), the role of the governmen t has 
+chan ged from that of the provid er to a facilita tor, and ther e has been an 
+increase in the engagemen t of priva te actors in the main stream of econom y. 
+Thus, these new econom ic polici es have revived the depr essed econom ic 
+condition (196 0s–1990s) of Kolka ta. However, with just 40 percent of the total 
+popula tion in the workforce and a burgeon ing floating popula tion , Kolka ta’s 
+econom ic situa tion leaves much room for impr ovemen t. 
+Sust aina ble Reso urce Mana geme nt
+In recent years, amid st unregulated urba n growth and rising middle-class 
+cons umerism, concer ns regardin g environm ental degradation and the 
+depl etion of natural resour ces have been the focus of the muni cipal auth ority. 
+For instance, the KMC supplie s 300 million gallons (MG) of drinking water per 
+day, sour ced from Rive r Hooghly. Most of the water is supplied to HHs after 
+being treated and purified at five treatmen t plants ; it is distributed through 24 
+boost er pump ing station s and three headworks located in various parts of the 
+city. The KMC also took up the task of refurb ishing 18 MGD capa city water 
+treatmen t plants at Palta by shifti ng to 20 MGD modern filtered water 
+treatmen t plants. Work is also underway to enha nce the water-gen eration 
+capa city of the Garden Reac h water treatmen t plant, from 185 MG to 210 MG. 
+Und er the AMRU T sche me, refurb ishm ent of the Tallah Tank is currently 
+ongoing and i s set to be finish ed in the next two y ears. Und er th e aeg is of th e 
+ADB fund ing, a water-loss managem ent project has been initia ted in wards one 
+to six. Water metr es have been installed in various houses in wards five and six, 
+to assess water loss and to plug leakages in the existing system of water 
+35
+connectivity . However, desp ite such progress in water-resour ce managem ent, 
+15 ORF SPECIAL REPORT # 83  •MARCH 2019  Towar ds Sustainable and Inclusive C ities: T he Case of K olkatathe age-ol d underground water netw ork is yet to be upgraded; its proper 
+mappin g is pendi ng as well. Consequen tly, the KMC did not mak e much 
+headway in keepi ng water from b eing con tami nated. A recent re sear ch by the 
+All India Instit ute of Hyg iene and Publ ic Health showed the water supplied by 
+36
+the city auth ority to have high levels of bacterial contamin ation.
+Keeping Kolka ta clean and hygienic has been a major challeng e to the civic 
+body as the city generates 2,50 0 metr ic tonnes (MT ) of solid waste per day. The 
+KMC undertook the uphi ll task of disposin g 18.2 5 lakh MT of garbage on an 
+average in 2018 –19, a t the Dhapa landfill sit e. Sinc e this sit e has b een almost 
+filled up, anoth er landfill site is currently being const ructed at Mouza Chapn a, 
+under HIDC O. Additiona lly, the KMC identified land at Rasapunja (Bishnupu r, 
+South 24 Parga nas) for solid -waste treatmen t and disposal. Kolka ta now has 
+6,50 0 bins across the city’s roadsid e, with a total capa city of 240 litres, to be 
+used by pedestri ans and shop owne rs. To prevent littering on the roads, 
+anoth er 6,00 0 simi lar bins are set to be procur ed. To modernise the primar y 
+collection system, the KMC has procur ed around 100 battery-oper ated 
+hydraulic dumper s, placing them at various neighbourh oods; these are working 
+efficien tly. With the assistan ce of labour ers empl oyed under the West Bengal 
+Urba n Empl oyme nt Schem e, the KMC works hard to keep the city clean and 
+beautif ul. For bette r transpor tation of waste, 76 modern scien tific waste 
+comp actor station s, with 1 49 portable/stationar y comp actors, we re insta lled. 
+The Solid Waste Managem ent Departmen t also impl emen ted vehicle tracking 
+systems, along with post -imp lementa tion suppor t and main tenan ce for a five-
+year duration, for mon itoring of the vehicles engaged in muni cipal-waste 
+transpor tation . To convert orga nic mark et waste into bio-CNG, bio-CO2 and 
+compost, 5 MT mark et waste was processed daily at the Dhap a landfill site, for 
+whic h the Departmen t of Urba n Developmen t and Muni cipal Affair s of the 
+Governmen t of WB sancti oned INR 1.01 crore out of 4.06 crore.  
+Anothe r challeng e is manag ing the city’s sewer and wastewater outlet 
+connectivity . Despite the conti nuous efforts of the KMC , the condition of 
+sewer age and drainage in Kolka ta is not satisfactory due to the lack of time ly 
+clean ing and mon itoring . The KMC has focused heavily on the develop men t of 
+this secto r in recent years, including the impr ovemen t of drainage system from 
+79 Regent Esta te to Ramakr ishn a Park (Ward No. 96) and the renovation of 
+drainage links along BB Chatterjee Road (Ward No. 67 and 91). Work is also 
+underway in seve ral neighbourh oods to convert surface drainage to a 
+subsur face system and to enha nce drainage and sewer systems. Mech anic al 
+sewer clean ing has also comm enced, and modern techn olog ies have been added 
+to existing infrastructu re. For clean ing sewer lines and manh ole cham bers 
+16 ORF SPECIAL REPORT # 83  •MARCH 2019  Towar ds Sustainable and Inclusive C ities: T he Case of K olkataacross the city, the KMC has added 15 sets of new powe r-buc ket mac hines and 
+40 new manh ole de-silting mac hines. 
+Susta inabl e use of energy resour ces has been the city governmen t’s prior ity. 
+The KMC took the initia tive to install LED light posts across Kolka ta’s major 
+roads, thoroughfares, flyovers and surround ings, under the “Green City 
+Missi on.” This will lower energy costs consi derably. High masts have also been 
+put up for effectiv e illumina tion . A grid-connected solar project, with 15 kW 
+capa city, has been set up at the Deshap riya Park under the HUDC O CSR fund . 
+The KMC also set up 6-kW and 7.8-kW solar energy projects at the Jatin Das 
+Park and the Maddox Squar e Park respective ly. More such projects are set to 
+come up in other areas such as the College Squar e, the Patuli Upona gari Udd yan 
+and the Deshba ndhu Park. 
+Safe ty and Resi lience
+For a city to be ‘smart’, it must be safe and resilient in the face of hazards, natural 
+or man-made, and socio-political unrest, including issues of law and order. 
+Kolkata has a dangerously congested residential layout, extremely narrow roads 
+and massive traffic volumes. Therefore, the city’s road-saf ety situation has 
+received increasing attention in recent years. The governm ent’s latest initiative, 
+the “Safe Driv e Save Life” campaign, to increase road-saf ety awareness across 
+the state is commendable. Pedestrian s walkways are frequently encroached— 
+fully or partially—by informa l establishments/ hawkers or by car parking (due 
+to a scarcity of dedicated parking spaces). 
+Most constructed buildings (residential, commercial as well as 
+industr ial)—includi ng roadside informal market s/eater ies—ar e sever ely 
+vuln erable to fire accidents, as they often viola te fire-safety norms. Kolka ta has 
+witnes sed seve ral such deadly mish aps in the recent past. 
+Further mor e, safety in public spac es remains a cause of concern. The city 
+author ity has installed hundr eds of CCT V camer as in major junctions, traffic 
+signals, buildings, shopping malls, parks and squares for real-time 
+surveillanc e. The Kolkata police are also promoting a new mobile-based safety 
+app,  Bondhu, a sing le-window application that will allow citiz ens to reach out 
+to the police. 
+Due to its geographi c location and its underlying geol ogic structu re, 
+37
+Kolka ta is highly prone to earthqu akes, flooding and cyclon es. These 
+natural/m an-m ade disast ers are further exac erba ted by plann ing viola tion s in 
+the city, the lack of integrated infrastructu res and efficien t instit utional risk-
+17 ORF SPECIAL REPORT # 83  •MARCH 2019  Towar ds Sustainable and Inclusive C ities: T he Case of K olkata38
+reducti on strategies, and a lack of prepar ednes s. To mak e the city mor e 
+resilient, adequa te and efficien t plann ing, as well as stringent safety norms at 
+all levels, must be adopted and enforced.  
+Urba n Mobi lity
+Being a multi-fun ctional and polycentric ci ty, wit h only six per cent road sp ace 
+and a narrow street layout, Kolka ta has been struggling with a bottl eneck 
+situation due to an escalating vehicular popu lation. While the city provides 
+many affordable public transpor t options, including buse s, yellow taxis, 
+subu rban railways, metro, tram, auto-ricksha ws, sharing transpor t mod es 
+39
+(Bik e-taxi s, OLA/Uber) and ferries, there has been an increase in personal 
+mot orised m odes of t ranspor t. The p reference for owning pe rsonal vehicles is 
+largely based on the economic capability of an individual or a HH.
+Kolka ta has an extensi ve bus netw ork, covering every part of the city. 
+However, it is inadequa te. Due to a lack of holistic transpor t plann ing, the city 
+has witnes sed seve ral traffic -related problems, including frequen t vehicu lar 
+accidents. Rece nt studies show that 51 percent of the road fataliti es occurred at 
+signalised intersecti ons, due main ly to the use of mob ile phones whil e driving 
+40
+and the blatant viola tion of traffic signals.  
+Given the decrease in public spaces in Kolka ta, providing integrated, smart, 
+adequate, accessible and affordable means of transpor t facilities; meeti ng the 
+unmet demand for parkin g spaces; and promotin g safe, secu re and inclusive 
+urban mobility pose signifi cant challenges to the city governme nt. Urban 
+mobility affects the city’s environment, health, education, employme nt and 
+internal secu rity, which in turn impact the city’s overall socioeconomic 
+liveability, sust ainability and vibrancy. 
+Despite various urban development and welfare policies/programmes under 
+the aegis of both national and state governme nts and other development 
+agen cies, Kolka ta is yet to become a sust ainable and inclusive city. While som e 
+sectors—e.g . real estate, IT, tourism, and physical infrastructure—have 
+progressed signifi cantly since the economic liberalisation, at the micro-level, 
+spatial inequalities persist in terms of adequate housing, access to essential 
+amenities and civic services, and the financial well-being of residents. 
+Moreover, issu es continue to pose cha llenges to ma king Kolka ta a susta inable 
+and inclusive city: unregulated built-up growth, planning violations, CONC LUSIO N 
+18 ORF SPECIAL REPORT # 83  •MARCH 2019  Towar ds Sustainable and Inclusive C ities: T he Case of K olkatamismanagem ent of municipal waste, environmental degr adation, traffic 
+congestion and restrict ed spatial mobility, unsafe public spaces, exclusionary 
+social practices, and unaffordable technology-driven infrastructure. 
+This repor t recommends the following measur es to make Kolkata mor e 
+inclusive, sustaina ble, safe and resilient . 
+a.Adequ ate and effective participation of citizens in the governan ce process 
+and ‘reform in the reform process’ by identifyi ng and eliminating the 
+loopholes in the existing multi-tiered governin g structures must be 
+ensured to allow the city authority to fix the issues of vulnerable 
+41
+popu lations. 
+b.To mak e the city inclusive, it is important to reframe the processes of 
+urban planning by incorporating more holistic approaches of city 
+development, e.g. multi-sectoral comprehensive policies/schemes instead 
+of a sector-speci fic developmental approach. For instance, to promote 
+good health, it is necessary to provide good housing, amenities, nutritio n, 
+employme nt, education and clean energy. Simply providing healthcare 
+services and employme nt will not yield the expect ed outcome. 
+c. Targeted and location-speci fic welfare schemes for quality shelter, jobs, 
+potab le water etc., must be prescribed to curb evident spatial inequalities. 
+d. Inexpen sive and rapid transpor t should be made available for all to address 
+the issue of increased geogr aphical distance betw een housing and jobs for 
+the working class. 
+e. Public spaces should be made accessible and safe for children, women, 
+peop le with special need s and the elderly. The preservation and 
+conservation of heritage sites, public spaces and natural ecosystems must 
+be strengthened, and measures should be taken to protect such spaces 
+from further encroachment.  
+f. Environ mental hazards , climate-change adaptation strategies and 
+disaster risk-reduction measures must be taken into consideration while 
+framing a city plan. Provisions for adequate, integrated and affordable 
+technology-driven infrastructures and institutional preparedness is key to 
+combatting environmental disasters. 
+g.For proper safety measures, vulnerable areas (e.g. inner street, parkin g lot, 
+subways) must be w ell-lit and bet ter monitored u sing CCTV cameras and 
+frequent police patrolling; pede strian walkways should be free from illegal 
+19 ORF SPECIAL REPORT # 83  •MARCH 2019  Towar ds Sustainable and Inclusive C ities: T he Case of K olkataencroachment and m ade accessible for all, including th e dif ferently ab led 
+and elderly. 
+ABOUT TH E AU THORS
+Ismail Haque  is a Ph.D . candid ate (Population Studies) at the Centr e for the Study 
+of Regional Development , the School of Social Sciences, Jawaharlal Nehru 
+University , New Delhi and Researc h Consultant at Impact and Policy Researc h 
+Institute (IMPRI). 
+Simi Mehta  is the CEO and Editor ial Director of the Impact and Policy Researc h 
+Institute (IMPRI). She holds a Ph.D . in Amer ican Studies from the School of 
+International Studies , Jawaharlal Nehru University and was a Fulbr ight Fellow at 
+Ohio State University , USA.
+Arjun Kumar  is the Director of IMPRI. He holds a Ph.D . in Economi cs from 
+Jawaharlal Nehru University .
+20 ORF SPECIAL REPORT # 83  •MARCH 2019  Towar ds Sustainable and Inclusive C ities: T he Case of K olkataACKNOWL EDGE MEN TS
+This repor t is the outcome of a collabor ative workshop on smar t cities held in Kolkata , 
+27–2 8 November 2018 , by Heide lberg Univ ersity, Obser ver Resear ch Foundati on and the 
+School of Planning and Architectur e (New Delhi), in Collabor ation with IIT Khar agpur, 
+Impa ct and Policy Resear ch Instit ute (IMP RI), Univ ersity of Calcut ta and the Indo-
+German Chamber of Comm erce. This publi cation is suppor ted by the Friedr ich Nauma nn 
+Stiftung für die Freiheit.
+The auth ors are grateful to Mr. Devi Prasad Karanam (IAS, Micr o, Small and Mediu m 
+Enterprises a nd Textiles Departmen t, Govt. of West Benga l), Consu l Gene ral Dr. Feine r, 
+German Missi on in Kolkata and other dignitaries, for gracing the occasion and addressing 
+the gathering . 
+For insightfu l commen ts on the manuscript , thanks are also due to Dr. Radu 
+Carciumar u (Resi dent Repr esent ative of Heide lberg Univ ersity Branch Office in Delhi) 
+and Dr. Rumi Aijaz (Senio r Fellow, ORF, New Delhi).
+21 ORF SPECIAL REPORT # 83  •MARCH 2019  Towar ds Sustainable and Inclusive C ities: T he Case of K olkataENDNOTES
+1. E. Moreno and R. Warah, “The state of the world cities repor t 2006/2007: 30 year of 
+shaping the habitat agen da,” Repo rt No. HS/815/06E, United Nation Human 
+Settl ement Programme, 2006.
+2. A. Kundu , “Making Indian cities slum free,” Economic and P olitical Weekly  48 (201 3): 
+15–1 8.
+3. I. Haque, P.P. Patel and M.J. Rana, “Locati on matters: exploring the spatial 
+dime nsio ns of neighborhood level housi ng quality in Kolkata (Ind ia),” Habita t 
+Internationa l (Forthcomin g).
+4. H.S. Ande rsen , H. S. (200 3) Urban Sores-on the interaction between segregatio n, 
+urba n deca y and deprived neighborhoods. Aldersot, England: Ashga te. 
+5. UN-D ESA (Unit ed Nations, Departmen t of Econom ic and Social Affair s), Popula tion 
+Divisio n (201 6) The World ’s Cities in 2016 – Data Bookl et (ST/ES A/ SER .A/3 92).
+6. Chatterjee, S. N. (200 8). Water Resour ces, Conser vation and Mana gement . New Delhi: 
+Atlantic Publ ishers and Distribut ors. p. 33. ISBN 978- 81-2 69-0 868- 4.
+7. S. Roy Chadhuri and A.R. Thakur , “Micr obial genetic resour ce mapping of East 
+Calcut ta wetlands, ” Current Scienc e 91, no. 2 (25 July 2006 ): 212– 17.
+8. Adrianne Pielou, “Ind ia: Calcut ta, the capita l of cultur e,” 4 Mar ch 2011 , accessed 20 
+February 2019, https://web.archive.org/web/20160102024458/,  
+http://www.telegraph.co.uk/luxury/travel/1245/india-calcutta-the-capital-of-
+cultur e.html 
+9. Registrar Gene ral of India , “Table hh-1 4: percentage of househ olds to total 
+househ olds by amen ities and assets, ” 2011 , accessed 17 Sept ember 2018 , 
+http:// www .censusindi a.gov.in/2011censu s/HLO/H L_PCA/H ouse listing-ho using-
+WB.htm l.
+10. Subh rangs hu Gupta, “Job Charnock not Kolkata found er: HC says city has no 
+foundation day,” The Tribune, 17 May  2003, accessed 3 February 2019, 
+https ://w ww.tribunein dia.com/2 003/ 2003 0518 /nation .htm #3.
+11. A. Bose, Studies in Indi a’s Urbaniz ation, 1901- 1971  (Bomba y: Tata McGraw Hill, 
+1973 ).
+12. U. Sengupta , “The hind ered self-help: housi ng polici es, politic s and poverty in 
+Kolkata , India ,” Habitat International  34 (201 0): 323– 31. 
+13. I. Haque, D.N. Das and P.P. Patel, “Growth of metr o cities in India: trends, patterns 
+and determinants, ” Urban Resear ch and Practic e 11, no. 4 (201 8): 338– 77. 
+14.“Slums in India: a statistical compendium 2015,” National Building Organization, 
+Ministry of Housing and Urban Poverty Alleviation, GOI, accessed 17 September 
+2018, http://nbo.nic.in/Images/PDF/SLUMS_IN_INDIA_Slum_Compendium_2015 
+_English.pdf. 
+15. U. Sengupta , “Housing reforms in Kolkata: chan ges and challeng es,” Housing Studies  
+22, no. 6 (200 7): 965– 79.
+16. I. Haque, “Discriminat ed urba n spac es: a stud y of spatial segregatio n in urba n West 
+Benga l,” Economic and Political Weekly  51, no. 40 (201 6):41–50 . 
+22 ORF SPECIAL REPORT # 83  •MARCH 2019  Towar ds Sustainable and Inclusive C ities: T he Case of K olkata17. Op. cit., Endn ote (16) .
+18. “GDP: The Top 10 Cities in India ,” Rediff , 23 April 2010 , accessed 8 February 2019 
+http://business.rediff.com/slide-show/2010/apr/23/slide-show-1-the-top-10-
+cities-in-in dia-by -gdp .htm #4.
+19. Estab lished on 1912 , Calcut ta Impr ovemen t Trust, now Kolkata Impr ovemen t 
+Trust, is a statutory body under the Urban Develop ment Departmen t (Gov ernment 
+of West Benga l). It is the oldest urba n develop ment auth ority of Kolkata.
+20. “About KMD A,” KMD A, https ://w ww.kmdaon line.org/ hom e/about_ us.
+21. For further details, see KMD A Annual Repor t 2011 , https ://w ww.kmdaon line.org/ 
+hom e/aar_ 2011 .
+22. Minis try of Urban Develop ment, GOI, 2015 , Smar t City Missi on Guid elines, 
+accessed on 20 February 2019 , http:/ /smar tcities.g ov.in/uplo ad/uplo adfil es/fil es/ 
+Smar tCityGuid elines(1 ).pdf . 
+23.World Bank, “Inclusion matters: the foundation for shared prosperity,” 2013,  
+accessed on 20 February 2019, http://siteresources.worldbank.org/EXTSOCIAL 
+DEVE LOPMEN T/Resour ces/244362-126 5299949041 /6766328-1 3299437297 35/ 
+8460924-1381272444276/InclusionMatters_AdvanceEdition.pdf 
+24. G. McGranaha n, D. Schensul and G. Singh, “Inclusiv e urba nizati on: can the 2030 
+agenda be delivered without  it?” Envir onmen t and Urban ization  28, no. 1 
+(201 6):13–34 . 
+25. Minis try of H ousing an d Urban P overty A lleviati on, Repor t of the T echni cal Gr oup 
+on Urban Housing Shortage (TG-12) (201 2–17 ), Government of India , New Delhi, 
+2012 , accessed 20 February 2019 , http:/ /www .nbo .nic.in/ Images/P DF/ur ban-
+housi ng-shor tage.pdf 
+26. It’s a PCA-based composit e scores of 18 items, covering housi ng conditi ons, access to 
+amen ities and assets; (standar d Cronba ch’s a=0.892 , p<0.0 00). 
+27. Op. cit., Endn ote (13) .
+28. D. Maha devia , “Tenur e secur ity and urba n social protecti on in India ,” Cent re for 
+Social Protection Research, January 2011, accessed 20 February 2019, 
+https ://w ww.ids.a c.uk/files /dmfil e/Resea rchRepor t05F INAL .pdf 
+29. D. Guin, “(Re) analy zing Indian cities through the lens of sustainab le develop ment 
+goal s,” Urban Indi a 36, no. 2 (201 6):6–27. 
+30. S. Mukher jee, “No Musli ms allowed: Kolkata’ s discriminat ory tenan cy proble ms,” 
+The Wire, 22 August 2018 , accessed 17 February 2019 , https ://thewir e.in/ 
+rights/mus lims-kol kata -discrimina tory-tenan cy-proble m.
+31. D. Satterthwait e, “The link between poverty and the environme nt in urba n areas of 
+Africa, Asia and Latin America ,” Annals of the American Academ y of Political and 
+Social Scienc e 590 (200 3):73–92 . 
+32. D. Sharma and S. Singh, “Institutin g environme ntal sustainab ility and clima te 
+resilience in the governance proces s: exploring the poten tial of new urba n 
+develop ment schem e in India ,” International Area Studies Review , 19, no. 1 
+(201 6):90–10 3. 
+23 ORF SPECIAL REPORT # 83  •MARCH 2019  Towar ds Sustainable and Inclusive C ities: T he Case of K olkata20, Rouse A venue Institutional Ar ea, New Delhi - 110 002, IND IA 
+Ph. : +91-11-35332000  F ax : +91-11-35332005  
+E-mail: conta ctus@or fonline.org
+Website: www .orfonline.org33. Web Desk, “Kolkata most pollut ed city in India ,” Indi a Today , 19 November 2018 , 
+accessed 20 February 2019, https://www.indiatoday.in/education-today/gk-
+current-affairs/story/kolka ta-m ost-pollu ted-city-india-1391 583- 2018 -11- 19 
+34. K.C. Sivaramakr ishna n, Governa nce of meg a city: fractur ed thinki ng, fragment ed setup  
+(New Delhi: Oxford univ ersity press, 2015 ).
+35. Op. cit., Endn ote (36) .
+36. TNN, “Raj legac y mains tay of water supply ,” Times of Indi a, 3 Sept ember 2003 , 
+accessed 20 February 2019, https://archive.is/20120701162444/, 
+http://articles.timesofindia.indiatimes.com/2003-09-03/kolkata/27191946_1_ 
+water-supply -palta-sovan-chatterjee 
+37. “Hazar d profiles of Indian districts,” National Capa city Building Project in Disaster 
+Mana gement , UND P, accessed 9 February 2019 , https ://w eb.archiv e.org/web/ 
+2006 0519 1006 11/h ttp://w ww.und p.org.in/dmw eb/h azar dprofile.pdf .
+38. Flyovers and bridges collapsin g (in Kolkata) and urba n flooding (in Chenn ai) are a 
+few contempor ary example s of man-m ade disast ers in large metr os. 
+39. Kolkata tops in publi c transpor t: stud y https ://timesofindia.indiati mes.c om/ 
+india/ kolkata-tops-in-pub lic-transpor t-stud y/ar ticle show /664 7638 6.cm s accessed 
+on 19/0 2/20 19. 
+40. Sudeshna Mitr a, “Pedestr ain Safety in the context of Safe Mobility for Smar t Cities, ” 
+Pres entation made at the Smart Cities Workshop on: Sustainable Urban 
+Develop ment, Kolkata , 27–2 8 November 2018 .
+41. Op. cit., Endn ote (30) . Towar ds Sustainable and Inclusive C ities: T he Case of K olkata
