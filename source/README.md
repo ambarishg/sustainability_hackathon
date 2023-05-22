@@ -1,12 +1,27 @@
 The Source Code has 6 components      
 
-1. **agriculturehub** - has the code for the static website which binds the `Paddy Disease detection` , `Cassava Disease detection` , `Bees  Disease detection`         
+1. **Sustainability Hub Portal** - has the code for the static website which binds the ,`Sustainability Hub`,`Paddy Disease detection` , `Cassava Disease detection` , `Bees  Disease detection`, and the `Meat Freshness Classification`         
 
-2. **bees-disease-detection** folder - has the code for the bees-disease-detection   
+2. **bees-disease-detection** folder - has the code for the bees-disease-detection    
 
-3. **paddy-disease-detection** folder - has the code for the paddy-disease-detection   
+3. **sustainability_hub** folder - has the code for    
+   Sustainability Hub for answering questions as well as do chat on the following topics      
+   * Sustainability reports of the following cities and companies              
+        - Kolkata Sustainability Report          
+        - Varanasi Sustainability Report              
+        - Novartis Sustainability Report            
+        - Nestle Sustainability Report        
+    * Educational Sustainability Question Answering and Chat          
+        - 15 NCERT Class 11 Chapters considered
+    * Ecology book -                   Ecology-From-Individuals-to-Ecosystems-by-Michael-Begon—2006  Question Answering and Chat                       
+    * Plant Disease Question Answering and Chat      
 
-4. **cassava-disease-detection** folder - has the code for the cassava-disease-detection        
+4. **paddy-disease-detection** folder - has the code for the paddy-disease-detection             
+
+5. **cassava-disease-detection** folder - has the code for the cassava-disease-detection         
+
+6. **meat-freshness-classification** folder - has the code for the meat-freshness-classification  
+
 
 
 <hr/>
