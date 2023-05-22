@@ -25,7 +25,13 @@ The Source Code has 6 components
 
 6. **meat-freshness-classification** folder - has the code for the meat-freshness-classification  
 
+<hr/>
+Deployment Steps for the Sustainability Hub
+<hr/>          
 
+1. Copy the folder in an Azure VM
+2. Navigate to the sustainability_hub directory and run the command `streamlit run app.py`         
+   
 
 <hr/>
 Source Code description of Cassava Disease Detection
